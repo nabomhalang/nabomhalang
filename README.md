@@ -1,7 +1,6 @@
-[![nabomhalang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabomhalang&theme=radical)](https://github.com/nabomhalang/nabomhalang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabomhalang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![nabomhalang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabomhalang&theme=radical)](https://github.com/nabomhalang/nabomhalang)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabomhalang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<hr>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=nabomhalang)](https://solved.ac/nabomhalang)
 
