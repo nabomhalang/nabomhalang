@@ -69,3 +69,25 @@
   <img src="https://img.shields.io/badge/network-%230288D1.svg?style=for-the-badge&logo=asdf&logoColor=white" />
 </div>
 
+<br>
+<h2 align="center">Content Me</h2>
+<div align="center">
+  <a href = "mailto: abc@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nabomhalang/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
+  </a>
+  <a href="https://github.com/nabomhalang">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
