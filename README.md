@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nabomhalang&count_private=true&show_icons=true&theme=radical" height="165px" />
 </div>
 <br>
+
 <table align="center">
     <thead>
         <tr>
@@ -26,7 +27,7 @@
         <tr>
            <td>
              <ul>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python 3</b></li>
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python 3</b>
                <li>
                  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="20px" align="center" /> SQL
                </li>
