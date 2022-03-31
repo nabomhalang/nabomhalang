@@ -1,4 +1,5 @@
-<h1 align="center" style="color: black;">nabomhalang</h1>
+<h2 align="center" style="color: black;">Hi I'm nabomhalang</h2>
+<p align="center">I'm studying at Sunrin Internet High School 116th belong UNIFOX 13th</p>
 
 
 <div align="center">
