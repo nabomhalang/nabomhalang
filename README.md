@@ -1,5 +1,11 @@
 <h2 align="center" style="color: black;">Hi I'm nabomhalang</h2>
-<p align="center">I'm studying at Sunrin Internet High School 116th belong UNIFOX 13th</p>
+
+### I'm studying at _Sunrin Internet High School_ 116th belong _UNIFOX_ 13th
+<ul>
+  <li>System Hacking, Web Hacking, Reversing engineering</li>
+  <li>Full Stack Developer</li>
+  <li>Linux & window server build and running </li>
+</ul>
 
 
 <div align="center">
@@ -55,18 +61,6 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-</div>
-
-<br>
-
-<h3 align="center">Skills</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/System_Hacking-black?style=for-the-badge&logo=asdf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Hacking-black?style=for-the-badge&logo=asdf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reversing_engineering-black?style=for-the-badge&logo=asdf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Server build-05192D?style=for-the-badge&logo=asdf&logoColor=white" />
-  <img src="https://img.shields.io/badge/network-%230288D1.svg?style=for-the-badge&logo=asdf&logoColor=white" />
 </div>
 
 <br>
