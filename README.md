@@ -6,8 +6,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nabomhalang&row=1&no-bg=true&no-frame=true&theme=monokai"(https://github.com/ryo-ma/github-profile-trophy) />
 </div>
 
-
-
 <h2 align="center">Languages & skills</h2>
 <div style="display: grid; " align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabomhalang&theme=radical&layout=compact" />
@@ -15,119 +13,59 @@
 </div>
 <br>
 
-<table align="center">
-    <thead>
-        <tr>
-          <th>Language</th>
-          <th>Service</th>
-          <th>Skills</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-           <td>
-             <ul>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python 3</b>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="20px" align="center" /> SQL
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" height="20px" align="center" /> C
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="20px" align="center" /> C++
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" align="center" /> JavaScript
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="20px" align="center" /> next.js
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="20px" align="center" /> shell script
-               </li>
-               <li>
-                 <img src="https://www.svgrepo.com/show/129436/router.svg" height="20px" align="center" /> router
-               </li>
-             </ul> 
-           </td>
-            <td>
-             <ul>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="20px" align="center"> Linux
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" height="20px" align="center"> Cent OS
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="20px" align="center"> Ubuntu
-               </li>
-              <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" height="20px" align="center"> Apache2
-               </li>
-                <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="20px" align="center"> Nginx
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="20px" aligen="center"> Oracle Cloud
-               </li>
-               <li>
-                 <img src="https://www.logo.wine/a/logo/Amazon_Elastic_Compute_Cloud/Amazon_Elastic_Compute_Cloud-Logo.wine.svg" height="20px" width="20px" aligen="center"> AWS Cloud
-               </li>
-                <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> Google Cloud Platform
-               </li>
-                <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="20px" align="center"> Visual Studio Code
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="20px" align="center"> Visual Studio
-               </li>
-             </ul> 
-          </td>
-          <td>
-             <ul>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" height="20px" align="center"> SSH
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" height="20px" align="center"> Network
-               </li>
-               <li>
-                 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" height="20px" align="center"> Vim
-               </li>
-               <li>
-                 <img src="https://pic.onlinewebfonts.com/svg/img_110101.png" height="20px" align="center"> System Hacking
-               </li>
-               <li>
-                 <img src="https://www.svgrepo.com/show/23676/reversed-rotating-arrow.svg" height="20px" align="center"> reversing engineering
-               </li>
-               <li>
-                 <img src="https://www.svgrepo.com/show/379736/web.svg" height="20px" align="center"> Web hacking
-               </li>
-             </ul> 
-          </td>
-        </tr>
-    </tbody>
-</table>
+<h3 align="center">Languages</h3>
 
 <div align="center">
-  <a href = "mailto: abc@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/nabomhalang/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
-  </a>
-  <a href="https://github.com/nabomhalang">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
 </div>
+<br>
+
+<h3 align="center">Service</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+</div>
+
+<h3 align="center">Platform</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+</div>
+
+<br>
+
+<h3 align="center">Skills</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/System_Hacking-black?style=for-the-badge&logo=asdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Hacking-black?style=for-the-badge&logo=asdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reversing_engineering-black?style=for-the-badge&logo=asdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server build-05192D?style=for-the-badge&logo=asdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/network-%230288D1.svg?style=for-the-badge&logo=asdf&logoColor=white" />
+</div>
+
