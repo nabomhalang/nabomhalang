@@ -5,6 +5,7 @@
   <li>System Hacking, Web Hacking, Reversing engineering</li>
   <li>Full Stack Developer</li>
   <li>Linux & window server build and running </li>
+  <li> my BLOG : <a href="https://nabomhalang.tistory.com/"> HERE </a>
 </ul>
 
 
