@@ -1,6 +1,6 @@
 <h2 align="center" style="color: black;">Hi I'm nabomhalang</h2>
 
-### I'm studying at _Sunrin Internet High School_ 116th belong _UNIFOX_ 13th
+### I am attending **Sunrin Internet High School 116th**, I'll be working in **Shinhan Bank's** IT department.
 <ul>
   <li>System Hacking, Web Hacking, Reversing engineering</li>
   <li>Full Stack Developer</li>
